@@ -1,0 +1,171 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(8,100px);
+    grid-template-rows: repeat(8,100px);
+    gap: 5px;
+    place-content: center;
+}
+div{
+    background-color: #964B00;
+}
+.k1{
+    background-color: white;
+    font-size: 90px;
+}
+.k2{
+    font-size: 90px;
+}
+.k3{
+    background-color: white;
+    font-size: 85px;
+}
+.k4{
+    font-size: 90px;
+}
+.k5{
+    background-color: white;
+    font-size: 90px;
+}
+.k6{
+    font-size: 85px;
+}
+.k7{
+    background-color: white;
+    font-size: 90px;
+}
+.k8{
+    font-size: 90px;
+}
+.k9{
+    font-size: 90px;
+}
+.k10{
+    background-color: white;
+    font-size: 90px;
+}
+.k11{
+    font-size: 90px;
+}
+.k12{
+    background-color: white;
+    font-size: 90px;
+}
+.k13{
+    font-size: 90px;
+}
+.k14{
+    background-color: white;
+    font-size: 90px;
+}
+.k15{
+    font-size: 90px;
+}
+.k16{
+    background-color: white;
+    font-size: 90px;
+}
+.k17{
+    background-color: white;
+}
+.k19{
+    background-color: white;
+}
+.k21{
+    background-color: white
+}
+.k23{
+    background-color: white;
+}
+.k26{
+    background-color: white;
+}
+.k28{
+    background-color: white;
+}
+.k30{
+    background-color: white;
+}
+.k32{
+    background-color: white;
+}
+.k33{
+    background-color: white;
+}
+.k35{
+    background-color: white;
+}
+.k37{
+    background-color: white;
+}
+.k39{
+    background-color: white;
+}
+.k42{
+    background-color: white;
+}
+.k44{
+    background-color: white;
+}
+.k46{
+    background-color: white;
+}
+.k48{
+    background-color: white;
+    font-size: 90px;
+}
+.k49{
+    background-color: white;
+    font-size: 90px;
+}
+.k50{
+    font-size: 90px;
+}
+.k51{
+    background-color: white;
+    font-size: 90px;
+}
+.k52{
+    font-size: 90px;
+}
+.k53{
+    background-color: white;
+    font-size: 90px;
+}
+.k54{
+    font-size: 90px;
+}
+.k55{
+    background-color: white;
+    font-size: 90px;
+}
+.k57{
+    font-size: 90px;
+}
+.k56{
+    font-size: 90px;
+}
+.k58{
+    background-color: white;
+    font-size: 90px;
+}
+.k59{
+    font-size: 85px;
+}
+.k60{
+    background-color: white;
+    font-size: 90px;
+}
+.k61{
+    font-size: 90px;
+}
+.k62{
+    background-color: white;
+    font-size: 85px;
+}
+.k63{
+    font-size: 90px;
+}
+.k64{
+    background-color: white;
+    font-size: 90px;
+}
